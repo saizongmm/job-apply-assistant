@@ -1,0 +1,6 @@
+# Job Apply Assistant — Python dependencies
+# Install with: pip install -r requirements.txt
+openpyxl>=3.1
+python-docx>=1.1
+# Optional, only needed for .pdf CV input:
+# pdfminer.six>=20221105   # or install poppler and use `pdftotext`

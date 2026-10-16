@@ -1,0 +1,28 @@
+JANE DOE
+Backend Software Engineer
+jane.doe@example.com | +65 8123 4567
+Singapore | linkedin.com/in/janedoe
+
+PROFESSIONAL SUMMARY
+Backend engineer with 6 years building high-throughput services in Python and Go.
+Owns payments and identity platforms processing millions of transactions per day.
+Strong on API design, event-driven architecture, and cloud cost optimization.
+
+EXPERIENCE
+Acme Fintech — Senior Backend Engineer
+2021 - Present
+- Designed and shipped a low-latency payments API (Go + gRPC) handling 4M txn/day.
+- Led the migration from monolith to event-driven microservices (Kafka).
+- Cut cloud spend 28% via autoscaling and query tuning on PostgreSQL.
+
+Globex — Software Engineer
+2018 - 2021
+- Built internal identity service (OAuth2/OIDC) used by 12 teams.
+- Automated release pipeline; deploy frequency up 3x with zero-downtime rolls.
+
+EDUCATION
+National University of Singapore — B.Sc. Computer Science
+2014 - 2018
+
+SKILLS
+Go, Python, PostgreSQL, Kafka, gRPC, Kubernetes, AWS, OAuth2/OIDC, Terraform
